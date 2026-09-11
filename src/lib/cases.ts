@@ -5,8 +5,8 @@ export const STAGES = [
   "Problema Observado",
   "Propuesta Enviada",
   "Negociando",
-  "Proceso Exitoso",
   "Proceso en Construcción",
+  "Proceso Exitoso",
 ] as const;
 
 export const ORIGINS = [
