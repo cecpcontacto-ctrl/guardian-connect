@@ -54,6 +54,7 @@ export function CaseModal({
       progress: form.progress,
       next_followup: form.next_followup || null,
       stage: form.stage,
+      notes: form.notes,
     });
     onClose();
   };
